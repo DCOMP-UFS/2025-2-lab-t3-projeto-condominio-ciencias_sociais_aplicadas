@@ -39,7 +39,7 @@ O condomínio opera sob uma topologia de rede em estrela, conectada a um **Switc
 
 ### Centro de Estudos sobre a União Europeia (CEURO/UFS)
 * **Foco:** Pesquisa interdisciplinar em integração europeia, políticas públicas, relações internacionais e governança democrática.
-* **Infraestrutura Local:** 7 Estações de Trabalho conectadas a um Switch de Acesso (Camada 2), com cabeamento estruturado Categoria 6, pontos RJ-45 e nobreaks para proteção elétrica dos equipamentos.
+* **Infraestrutura Local:** 7 Estações de Trabalho conectadas a um Switch de Acesso (Camada 2), com cabeamento estruturado Categoria 6 e nobreaks para proteção elétrica dos equipamentos.
 * **Diferencial:** Integração entre infraestrutura local segmentada por VLAN e ambiente em nuvem (AWS EC2), permitindo a publicação de conteúdo acadêmico institucional por meio de containers Docker com servidor Apache.
 
 

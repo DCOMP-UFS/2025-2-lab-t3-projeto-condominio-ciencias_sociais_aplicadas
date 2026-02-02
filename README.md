@@ -13,6 +13,7 @@ Este repositório contém a proposta oficial para a implantação da infraestrut
     2. [Nome] - Lab. Sociologia
     3. [Nome] - Lab. Direito
     4. [Nome] - Lab. Turismo
+    5. Rivaldo José Nascimento dos Santos - Lab. de Ciência Política
     ...
 
 ---
@@ -22,8 +23,8 @@ Cada laboratório mantém uma instância Docker na AWS para gestão instituciona
 
 | Laboratório | Técnico Responsável | Link do Site (AWS) | Repositório Individual |
 | :--- | :--- | :--- | :--- |
-| **Ciência da Informação** | Tasso Marcel | [(http://3.223.134.38)](http://3.223.134.38) | [Link do Github](https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-tasso121) |
-| **Sociologia** | [Nome] | [IP AWS] | [Link do Github] |
+| **Ciência da Informação** | Tasso Marcel | [http://3.223.134.38](http://3.223.134.38) | [Link do Github](https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-tasso121) |
+| **Sociologia** | [Rivaldo José] | [http://52.44.133.112](http://52.44.133.112) | [Link do Github](https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-RivaldoJose) |
 | **Direito** | [Nome] | [IP AWS] | [Link do Github] |
 
 ---

@@ -31,7 +31,7 @@ services:
     command: >
       echo "Grupo de Pesquisa em Sociedade, Ciência e Técnica - SOCITEC
       Serviço hospedado externamente em EC2:
-      http://xxx.xxx.xxx.xxx"
+      http://3.221.47.50"
 
   ciencia-informacao:
     image: ubuntu:latest

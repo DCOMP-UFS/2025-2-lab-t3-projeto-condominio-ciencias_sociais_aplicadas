@@ -1,0 +1,42 @@
+version: "3.8"
+
+services:
+  turismo-criativo:
+    image: ubuntu:latest
+    container_name: lab-turismo-criativo
+    command: >
+      echo "Laboratório de Estudos Interdisciplinares em Turismo Criativo
+      Serviço hospedado externamente em EC2:
+      http://18.208.234.155"
+
+  ceuro-ufs:
+    image: ubuntu:latest
+    container_name: lab-ceuro
+    command: >
+      echo "Centro de Estudos sobre a União Europeia (CEURO/UFS)
+      Serviço hospedado externamente em EC2:
+      http://52.44.133.112"
+
+  constitucionalismo:
+    image: ubuntu:latest
+    container_name: lab-constitucionalismo
+    command: >
+      echo "Laboratório de Constitucionalismo, Cidadania e Políticas Públicas
+      Serviço hospedado externamente em EC2:
+      http://3.210.24.245"
+
+  socitec:
+    image: ubuntu:latest
+    container_name: lab-socitec
+    command: >
+      echo "Grupo de Pesquisa em Sociedade, Ciência e Técnica - SOCITEC
+      Serviço hospedado externamente em EC2:
+      http://xxx.xxx.xxx.xxx"
+
+  ciencia-informacao:
+    image: ubuntu:latest
+    container_name: lab-ciencia-informacao
+    command: >
+      echo "Laboratório de Ciência da Informação
+      Serviço hospedado externamente em EC2:
+      http://3.223.134.38"

@@ -17,6 +17,7 @@ Este repositório contém a proposta oficial para a implantação da infraestrut
     3. Lais Santos de Sousa - Lab. Turismo
     4. Rivaldo José Nascimento dos Santos - Lab. de Ciência Política
     5. Brício Thyers de Gois Macedo
+    6. Lucas Andrey de Menezes Conrado
     ...
 
 ---

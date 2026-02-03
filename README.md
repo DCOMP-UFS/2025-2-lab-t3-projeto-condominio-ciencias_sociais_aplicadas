@@ -8,7 +8,7 @@ Este repositório contém a proposta oficial para a implantação da infraestrut
 ---
 
 ## 👥 1. Equipe do Projeto
-* **Coordenador do Projeto:** Lucas Andrey de Menezes Conrado
+* **Coordenador do Projeto:** Tasso Marcel de Oliveira
 * **Assistente de Atas:** Bricio Thyers de Gois Macedo
 * **Contador/Tesoureiro:** Lais Santos de Souza
 * **Membros Participantes:**
@@ -73,7 +73,7 @@ O orçamento total da proposta respeita o teto global de R$ 1.000.000,00, com ca
 
 ## 📊 6. Relatório de Colaboração (Google Groups)
 A construção desta proposta seguiu o modelo de aprendizagem cooperativa.
-* **Total de Mensagens do Grupo:** [X] mensagens.
+* **Total de Mensagens do Grupo:** [19] mensagens.
 * **Relatório Detalhado:** [Relatório financeiro](orcamento/relatorio.pdf)
 * **Mapas lógicos dos laboratórios:** [Mapas](mapas)
 * **Referência da planta utilizada:** [Link da planta](https://www.bambui.ifmg.edu.br/portal/images/PDF/Laborat%C3%B3rios.pdf)

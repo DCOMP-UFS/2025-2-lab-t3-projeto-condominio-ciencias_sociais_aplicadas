@@ -2,6 +2,9 @@
 
 Este repositório contém a proposta oficial para a implantação da infraestrutura tecnológica do Condomínio de Laboratórios do **Centro de Ciências Sociais Aplicadas (CCSA)**, submetida ao **Edital Nº 01/2026**.
 
+* **Site do condomínio:** [Link](http://18.208.234.155:8080/)
+
+
 ---
 
 ## 👥 1. Equipe do Projeto
@@ -10,10 +13,9 @@ Este repositório contém a proposta oficial para a implantação da infraestrut
 * **Contador/Tesoureiro:** Lais Santos de Souza
 * **Membros Participantes:**
     1. Tasso Marcel de Oliveira - Lab. Ciência da Informação
-    2. [Nome] - Lab. Sociologia
-    3. Gabriella Nascimento dos Santos da Silva - Lab. Direito
-    4. [Nome] - Lab. Turismo
-    5. Rivaldo José Nascimento dos Santos - Lab. de Ciência Política
+    2. Gabriella Nascimento dos Santos da Silva - Lab. Direito
+    3. Lais Santos de Sousa - Lab. Turismo
+    4. Rivaldo José Nascimento dos Santos - Lab. de Ciência Política
     ...
 
 ---
@@ -26,13 +28,14 @@ Cada laboratório mantém uma instância Docker na AWS para gestão instituciona
 | **Ciência da Informação** | Tasso Marcel | [http://3.223.134.38](http://3.223.134.38) | [Link do Github](https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-tasso121) |
 | **Ciência Política** | Rivaldo José | [http://52.44.133.112](http://52.44.133.112) | [Link do Github](https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-RivaldoJose) |
 | **Direito** | Gabriella Nascimento | [http://3.210.24.245](http://3.210.24.245/) | [Link do Github](https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-GabriellaNascimento) |
+| **Turismo** | Lais Santos | [http://18.208.234.155](http://18.208.234.155/) | [Link do Github](https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-laissantos04) |
 
 ---
 
 ## 🛠️ 3. Descrição Técnica da Infraestrutura
 O condomínio opera sob uma topologia de rede em estrela, conectada a um **Switch Central Camada 3** e protegida por um **Firewall Next-Gen**.
 
-### Laboratório de Ciência da Informação (Exemplo)
+### Laboratório de Ciência da Informação 
 * **Foco:** Curadoria digital e preservação de dados científicos.
 * **Infraestrutura Local:** 1 Servidor Rack (Docker Host), 1 Switch Gerenciável 48 portas (D-Link DGS-1210-52) e 6 Estações de Trabalho.
 * **Diferencial:** Implementação de VLAN isolada para tráfego seguro de grandes volumes de dados.
@@ -43,18 +46,21 @@ O condomínio opera sob uma topologia de rede em estrela, conectada a um **Switc
 * **Diferencial:** Integração entre infraestrutura local segmentada por VLAN e ambiente em nuvem (AWS EC2), permitindo a publicação de conteúdo acadêmico institucional por meio de containers Docker com servidor Apache.
 
 
-### Lboratório de ...
+### Laboratório de Estudos Interdisciplinares em Turismo Criativo
+* **Foco:** Produção de pesquisas interdisciplinares voltadas ao turismo criativo e científico.
+* **Infraestrutura Local:** 6 Estações de Trabalho conectadas a um Switch de Acesso (Camada 2), com proteção via Firewall dedicado e um Access Point de última geração.
+* **Diferencial:** Conectividade de alta performance preparada para suportar diversas metodologias de recolha e análise de dados digitais.
 
 ---
 
 ## 💰 4. Orçamento e Atas de Registro de Preços
 O orçamento total da proposta respeita o teto global de R$ 1.000.000,00, com cada laboratório mantendo-se dentro do limite de R$ 50.000,00.
 
-* **Planilha Consolidada:** [Link para PDF ou Planilha no Repo]
+* **Planilha Consolidada:** [PDF](orcamento/planilha_orcamento.pdf)
 * **Principais Atas Utilizadas:**
     * **Switch L2 (D-Link):** [Ata 04/2026 - DPE/BA](https://pncp.gov.br/app/atas/07778585000114/2025/351/2)
-    * **Servidores:** [Link da Ata]
-    * **Desktops:** [Link da Ata]
+    * **Servidores:** [Ata nº 90012/2025](https://pncp.gov.br/app/atas/33787094000140/2025/418/1)
+    * **Desktops:** [Ata nº 001/2026](https://pncp.gov.br/app/atas/45699626000176/2025/570/1)
 
 ---
 
@@ -68,4 +74,6 @@ O orçamento total da proposta respeita o teto global de R$ 1.000.000,00, com ca
 ## 📊 6. Relatório de Colaboração (Google Groups)
 A construção desta proposta seguiu o modelo de aprendizagem cooperativa.
 * **Total de Mensagens do Grupo:** [X] mensagens.
-* **Relatório Detalhado:** [Link para pasta de relatórios/atas]
+* **Relatório Detalhado:** [Relatório financeiro](orcamento/relatorio.pdf)
+* **Mapas lógicos dos laboratórios:** [Mapas](mapas)
+* **Referência da planta utilizada:** [Link da planta](https://www.bambui.ifmg.edu.br/portal/images/PDF/Laborat%C3%B3rios.pdf)

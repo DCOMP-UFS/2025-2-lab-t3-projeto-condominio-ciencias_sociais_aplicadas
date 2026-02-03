@@ -16,6 +16,7 @@ Este repositório contém a proposta oficial para a implantação da infraestrut
     2. Gabriella Nascimento dos Santos da Silva - Lab. Direito
     3. Lais Santos de Sousa - Lab. Turismo
     4. Rivaldo José Nascimento dos Santos - Lab. de Ciência Política
+    5. Brício Thyers de Gois Macedo
     ...
 
 ---
@@ -29,6 +30,7 @@ Cada laboratório mantém uma instância Docker na AWS para gestão instituciona
 | **Ciência Política** | Rivaldo José | [http://52.44.133.112](http://52.44.133.112) | [Link do Github](https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-RivaldoJose) |
 | **Direito** | Gabriella Nascimento | [http://3.210.24.245](http://3.210.24.245/) | [Link do Github](https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-GabriellaNascimento) |
 | **Turismo** | Lais Santos | [http://18.208.234.155](http://18.208.234.155/) | [Link do Github](https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-laissantos04) |
+| **Sociologia** | Brício Thyers | [http://3.221.47.50](http://3.221.47.50/) | [Link do Github](https://github.com/Bricioth/site-grupo-socitec) |
 
 ---
 
@@ -45,11 +47,15 @@ O condomínio opera sob uma topologia de rede em estrela, conectada a um **Switc
 * **Infraestrutura Local:** 7 Estações de Trabalho conectadas a um Switch de Acesso (Camada 2), com cabeamento estruturado Categoria 6 e nobreaks para proteção elétrica dos equipamentos.
 * **Diferencial:** Integração entre infraestrutura local segmentada por VLAN e ambiente em nuvem (AWS EC2), permitindo a publicação de conteúdo acadêmico institucional por meio de containers Docker com servidor Apache.
 
-
 ### Laboratório de Estudos Interdisciplinares em Turismo Criativo
 * **Foco:** Produção de pesquisas interdisciplinares voltadas ao turismo criativo e científico.
 * **Infraestrutura Local:** 6 Estações de Trabalho conectadas a um Switch de Acesso (Camada 2), com proteção via Firewall dedicado e um Access Point de última geração.
 * **Diferencial:** Conectividade de alta performance preparada para suportar diversas metodologias de recolha e análise de dados digitais.
+
+### Laboratorio SOCITEC
+* **Foco:** Pesquisas em sistemas de informacao, tecnologias digitais, automacao de processos e suporte computacional a atividades academicas e organizacionais.
+* **Infraestrutura Local:** 1 Switch de Acesso (Camada 2), 3 Roteadores WiFi configurados como Access Points e 6 Estacoes de Trabalho distribuidas em diferentes salas.
+* **Diferencial:** Segmentacao da rede em multiplas sub-redes IPv4 e IPv6, utilizando gateway e host de internet compartilhados no ambiente do condominio de pesquisa, com topologia simulada no CORE para fins de estudo, planejamento e validacao da infraestrutura.
 
 ---
 

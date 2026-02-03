@@ -47,6 +47,11 @@ O condomínio opera sob uma topologia de rede em estrela, conectada a um **Switc
 * **Infraestrutura Local:** 7 Estações de Trabalho conectadas a um Switch de Acesso (Camada 2), com cabeamento estruturado Categoria 6 e nobreaks para proteção elétrica dos equipamentos.
 * **Diferencial:** Integração entre infraestrutura local segmentada por VLAN e ambiente em nuvem (AWS EC2), permitindo a publicação de conteúdo acadêmico institucional por meio de containers Docker com servidor Apache.
 
+### Laboratório de Constitucionalismo, Cidadania e Políticas Públicas
+* **Foco:** Suporte tecnológico para o desenvolvimento de pesquisas acadêmicas, organização de dados críticos e divulgação científica.
+* **Infraestrutura Local:** 5 Estações de Trabalho de alta performance conectadas a um Switch de Acesso (Camada 2), proteção elétrica via Nobreak Local Dedicado e um Access Point exclusivo para mobilidade dos pesquisadores.
+* **Diferencial:** Arquitetura otimizada para segurança de dados através de Firewall dedicado e segmentação por VLAN, garantindo integridade e alta disponibilidade para a comunicação entre pesquisadores e sistemas de jurimetria.
+
 ### Laboratório de Estudos Interdisciplinares em Turismo Criativo
 * **Foco:** Produção de pesquisas interdisciplinares voltadas ao turismo criativo e científico.
 * **Infraestrutura Local:** 6 Estações de Trabalho conectadas a um Switch de Acesso (Camada 2), com proteção via Firewall dedicado e um Access Point de última geração.

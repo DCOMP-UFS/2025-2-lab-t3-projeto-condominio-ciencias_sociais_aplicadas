@@ -18,8 +18,6 @@ Este repositório contém a proposta oficial para a implantação da infraestrut
     4. Rivaldo José Nascimento dos Santos - Lab. de Ciência Política
     5. Brício Thyers de Gois Macedo
     6. Lucas Andrey de Menezes Conrado
-    ...
-
 ---
 
 ## 🔬 2. Laboratórios Integrados e Sites (AWS EC2)

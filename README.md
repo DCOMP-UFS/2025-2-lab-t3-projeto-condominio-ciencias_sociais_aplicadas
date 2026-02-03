@@ -52,10 +52,10 @@ O condomínio opera sob uma topologia de rede em estrela, conectada a um **Switc
 * **Infraestrutura Local:** 6 Estações de Trabalho conectadas a um Switch de Acesso (Camada 2), com proteção via Firewall dedicado e um Access Point de última geração.
 * **Diferencial:** Conectividade de alta performance preparada para suportar diversas metodologias de recolha e análise de dados digitais.
 
-### Laboratorio SOCITEC
-* **Foco:** Pesquisas em sistemas de informacao, tecnologias digitais, automacao de processos e suporte computacional a atividades academicas e organizacionais.
-* **Infraestrutura Local:** 1 Switch de Acesso (Camada 2), 3 Roteadores WiFi configurados como Access Points e 6 Estacoes de Trabalho distribuidas em diferentes salas.
-* **Diferencial:** Segmentacao da rede em multiplas sub-redes IPv4 e IPv6, utilizando gateway e host de internet compartilhados no ambiente do condominio de pesquisa, com topologia simulada no CORE para fins de estudo, planejamento e validacao da infraestrutura.
+### Laboratório do Grupo de Pesquisa Sociedade, Ciência e Técnica (SOCITEC)
+* **Foco:** Desenvolvimento de pesquisas com enfase na análise dos fenômenos econômicos, dos processos de desenvolvimento e das relações entre ciência, técnica e sociedade. As pesquisas abordam a gênese, as trajetorias, as transformações e as consequências desses fenômenos a partir dos atores sociais, de suas instituições, das disputas narrativas e das ferramentas político-culturais, dialogando com diferentes áreas do conhecimento.
+* **Infraestrutura Local:** 1 Switch de Acesso (Camada 2), 3 Roteadores WiFi configurados como Access Points e 6 Estacoes de Trabalho, integrados ao ambiente de rede do condominio de laboratorios.
+* **Diferencial:** Estrutura pensada para promover mobilidade, colaboracao entre pesquisadores e facilidade de acesso aos recursos computacionais compartilhados, permitindo a execucao de projetos de pesquisa de forma flexivel e escalavel.
 
 ---
 

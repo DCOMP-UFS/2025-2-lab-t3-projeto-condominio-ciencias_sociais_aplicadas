@@ -8,7 +8,7 @@ Este repositório contém a proposta oficial para a implantação da infraestrut
 ---
 
 ## 👥 1. Equipe do Projeto
-* **Coordenador do Projeto:** Tasso Marcel de Oliveira
+* **Coordenador do Projeto:** Rivaldo José Nascimento dos Santos
 * **Assistente de Atas:** Bricio Thyers de Gois Macedo
 * **Contador/Tesoureiro:** Lais Santos de Souza
 * **Membros Participantes:**
